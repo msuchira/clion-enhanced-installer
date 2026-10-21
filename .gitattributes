@@ -1,0 +1,12 @@
+# Generated on 2026-11-05
+# Normalize line endings
+*.yml linguist-detectable=false
+
+*.yaml linguist-detectable=false
+*.gif binary
+dist/* linguist-vendored
+go.sum linguist-generated
+
+*.tsx linguist-detectable
+
+public/** linguist-vendored
